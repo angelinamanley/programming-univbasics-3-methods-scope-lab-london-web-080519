@@ -11,5 +11,5 @@ end
 
 def link
   phrase = "Do A Barrel Roll!"
-  puts link
+  puts phrase
 end
